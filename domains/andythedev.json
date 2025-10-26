@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "username": "andrew64dev"
+  },
+  "records": {
+    "NS": ["santino.ns.cloudflare.com", "vera.ns.cloudflare.com"]
+  },
+  "proxied": true
+}
